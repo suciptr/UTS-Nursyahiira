@@ -34,7 +34,7 @@ return [
     'google' => [
         'client_id' => env('GOOGLE_CLIENT_ID'),
         'client_secret' => env('GOOGLE_CLIENT_SECRET'),
-        'redirect' => 'https://nursyahiirahanum.sipelantis.com/api/oauth/register/callback',
+        'redirect' => 'https://syahiira@sipelantis.com/public/api/oauth/register/callback',
     ],
     
 ];
